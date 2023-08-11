@@ -18,7 +18,7 @@ effectiveness in accurately detecting and bleeping out swear words.
 - VS Code
 
 ## How to use the software tool
-- Download the files in this 
+- Download the files in this repository
 - Launch the GUI: Run the Python script that contains the GUI code. In command prompt navigate to
 folder containing the python script. Type python software_tool_for_swear_word_bleeping.py to lauch the  GUI. A window titled "Audio Recording" will appear.
 - Start Recording: Click on the "Start Recording" button. The GUI will display a message indicating that recording has started. Speak into the microphone while avoiding the use of the word "shit" (the sswear word being bleeped).
